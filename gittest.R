@@ -2,6 +2,6 @@
 
 data <- rnorm(1000)
 par(mfrow=c(1,2),mar=c(2,2,2,2))
-hist(data,col='red')
+hist(data,col='orange')
 
 
