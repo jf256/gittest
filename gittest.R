@@ -1,4 +1,4 @@
 # test git version control in Rstudio
 
 data <- rnorm(1000)
-hist(data)
+hist(data,col='blue')
